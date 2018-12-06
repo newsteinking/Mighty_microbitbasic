@@ -3,11 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Starter Scratch Basic
+Mighty Microbit Basic
 =======================================
 
 
- Starter Scratch Basic
+ Mighty Microbit Basic Lessons for Beginner
 
       written by sean base on following books
 
@@ -21,17 +21,20 @@ Starter Scratch Basic
 .. toctree::
    :maxdepth: 4
 
-   chapter1
-   chapter2
-   chapter3
-   beautiful-image
+   ./lessons/beautiful-image
+   ./lessons/lucky-7
+   ./lessons/answering-machine
+   ./lessons/game-of-chance
+   ./lessons/smiley
+   ./lessons/magic-logo
+   ./lessons/snowflake-fall
+   ./lessons/screen-wipe
+   ./lessons/flashing-heart
+   ./lessons/blink
+   ./lessons/night-light
+   ./lessons/game-counter
+   ./lessons/happy-birthday
 
 
-Indices and tables
-==================
 
 
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
