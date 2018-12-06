@@ -11,12 +11,16 @@ Show LEDs
 
 Quick Links
 -----------
+.. toctree::
+   :maxdepth: 4
+
+   ./smiley/activity
+   ./smiley/quiz
+   ./smiley/quiz-answers
+   ./smiley/challenges
 
 
-* `activity </lessons/smiley/activity>`_
-* `quiz </lessons/smiley/quiz>`_
-* `quiz answers </lessons/smiley/quiz-answers>`_
-* `challenges </lessons/smiley/challenges>`_
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

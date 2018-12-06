@@ -12,11 +12,14 @@ Acceleration
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/zoomer/activity>`_
-* `challenges </lessons/zoomer/challenges>`_
-* `quiz </lessons/zoomer/quiz>`_
-* `quiz answers </lessons/zoomer/quiz-answers>`_
+   ./zoomer/activity
+   ./zoomer/challenges
+   ./zoomer/quiz
+   ./zoomer/quiz-answers
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

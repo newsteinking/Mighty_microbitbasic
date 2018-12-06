@@ -12,11 +12,15 @@ Plot
 Quick links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/blink/activity>`_
-* `quiz </lessons/blink/quiz>`_
-* `quiz answers </lessons/blink/quiz-answers>`_
-* `challenges </lessons/blink/challenges>`_
+   ./blink/activity
+   ./blink/quiz
+   ./blink/quiz-answers
+   ./blink/challenges
+
+
 
 Prior learning / place of lesson in scheme of work
 --------------------------------------------------

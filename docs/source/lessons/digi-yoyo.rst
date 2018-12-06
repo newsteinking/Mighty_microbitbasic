@@ -12,11 +12,15 @@ While Loop
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/digi-yoyo/activity>`_
-* `challenges </lessons/digi-yoyo/challenges>`_
-* `quiz </lessons/digi-yoyo/quiz>`_
-* `quiz answers </lessons/digi-yoyo/quiz-answers>`_
+   ./digi-yoyo/activity
+   ./digi-yoyo/challenges
+   ./digi-yoyo/quiz
+   ./digi-yoyo/quiz-answers
+
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

@@ -11,12 +11,14 @@ Forever
 
 Quick Links
 -----------
+.. toctree::
+   :maxdepth: 4
 
+   ./snowflake-fall/activity
+   ./snowflake-fall/quiz
+   ./snowflake-fall/quiz-answers
+   ./snowflake-fall/challenges
 
-* `activity </lessons/snowflake-fall/activity>`_
-* `quiz </lessons/snowflake-fall/quiz>`_
-* `quiz answers </lessons/snowflake-fall/quiz-answers>`_
-* `challenges </lessons/snowflake-fall/challenges>`_
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

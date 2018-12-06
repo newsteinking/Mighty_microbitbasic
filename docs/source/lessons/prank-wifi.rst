@@ -4,7 +4,12 @@ prank wifi lesson
 
 Create a fake wifi app to trick your friends
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/prank-wifi/activity>`_
-* `quiz </lessons/prank-wifi/quiz>`_
-* `quiz answers </lessons/prank-wifi/quiz-answers>`_
+   ./prank-wifi/activity
+   ./prank-wifi/quiz
+   ./prank-wifi/quiz-answers
+
+
+

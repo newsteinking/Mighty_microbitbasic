@@ -11,13 +11,17 @@ If (Conditionals)
 
 Quick Links
 -----------
+.. toctree::
+   :maxdepth: 4
+
+   ./truth-or-dare/activity
+   ./truth-or-dare/tutorial
+   ./truth-or-dare/challenges
+   ./truth-or-dare/quiz
+   ./truth-or-dare/quiz-answer
 
 
-* `activity </lessons/truth-or-dare/activity>`_
-* `tutorial </lessons/truth-or-dare/tutorial>`_
-* `challenges </lessons/truth-or-dare/challenges>`_
-* `quiz </lessons/truth-or-dare/quiz>`_
-* `quiz answers </lessons/truth-or-dare/quiz-answers>`_
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

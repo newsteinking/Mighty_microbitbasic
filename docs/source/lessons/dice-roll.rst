@@ -12,11 +12,15 @@ If (Conditionals)
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/dice-roll/activity>`_
-* `challenges </lessons/dice-roll/challenges>`_
-* `quiz </lessons/dice-roll/quiz>`_
-* `quiz answers </lessons/dice-roll/quiz-answers>`_
+   ./dice-roll/activity
+   ./dice-roll/challenges
+   ./dice-roll/quiz
+   ./dice-roll/quiz-answers
+
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

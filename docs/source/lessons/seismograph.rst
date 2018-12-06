@@ -11,10 +11,13 @@ Acceleration & Analog Read Pin
 
 Quick Links
 -----------
+.. toctree::
+   :maxdepth: 4
+
+   ./seismograph/activity
+   ./seismograph/challenge
 
 
-* `activity </lessons/seismograph/activity>`_
-* `challenge </lessons/seismograph/challenge>`_
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

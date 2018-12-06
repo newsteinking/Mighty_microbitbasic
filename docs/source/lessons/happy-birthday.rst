@@ -12,9 +12,13 @@ Music
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/happy-birthday/activity>`_
-* `challenges </lessons/happy-birthday/challenges>`_
+   ./happy-birthday/activity
+   ./happy-birthday/challenges
+
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

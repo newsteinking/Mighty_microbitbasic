@@ -13,10 +13,14 @@ Quick Links
 -----------
 
 
-* `activity </lessons/counter/activity>`_
-* `challenges </lessons/counter/challenges>`_
-* `quiz </lessons/counter/quiz>`_
-* `quiz answers </lessons/counter/quiz-answers>`_
+.. toctree::
+   :maxdepth: 4
+
+   ./counter/activity
+   ./counter/challenges
+   ./counter/quiz
+   ./counter/quiz-answers
+
 
 Prior learning and lesson level
 -------------------------------

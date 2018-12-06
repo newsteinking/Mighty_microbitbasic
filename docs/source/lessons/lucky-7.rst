@@ -12,11 +12,15 @@ Show Number
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/lucky-7/activity>`_
-* `quiz </lessons/lucky-7/quiz>`_
-* `quiz answers </lessons/lucky-7/quiz-answers>`_
-* `challenges </lessons/lucky-7/challenges>`_
+   ./lucky-7/activity
+   ./lucky-7/quiz
+   ./lucky-7/quiz-answers
+   ./lucky-7/challenges
+
+
 
 Prior learning / place of lesson in scheme of work
 --------------------------------------------------

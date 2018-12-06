@@ -12,9 +12,13 @@ Game Library
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/game-counter/activity>`_
-* `challenges </lessons/game-counter/challenges>`_
+   ./game-counter/activity
+   ./game-counter/challenges
+
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

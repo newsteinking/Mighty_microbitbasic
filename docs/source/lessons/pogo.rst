@@ -11,7 +11,10 @@ Running Time
 
 Quick Links
 -----------
+.. toctree::
+   :maxdepth: 4
 
+   ./pogo/activity
 
 * `activity </lessons/pogo/activity>`_
 

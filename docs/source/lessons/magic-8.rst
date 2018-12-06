@@ -12,12 +12,16 @@ If (Conditionals)
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/magic-8/activity>`_
-* `tutorial </lessons/magic-8/tutorial>`_
-* `challenges </lessons/magic-8/challenges>`_
-* `quiz </lessons/magic-8/quiz>`_
-* `quiz answers </lessons/magic-8/quiz-answers>`_
+   ./magic-8/activity
+   ./magic-8/tutorial
+   ./magic-8/challenges
+   ./magic-8/quiz
+   ./magic-8/quiz-answers
+
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

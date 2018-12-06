@@ -11,12 +11,15 @@ If (Conditionals)
 
 Quick Links
 -----------
+.. toctree::
+   :maxdepth: 4
+
+   ./spinner/activity
+   ./spinner/challenges
+   ./spinner/quiz
+   ./spinner/quiz-answers
 
 
-* `activity </lessons/spinner/activity>`_
-* `challenges </lessons/spinner/challenges>`_
-* `quiz </lessons/spinner/quiz>`_
-* `quiz answers </lessons/spinner/quiz-answers>`_
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

@@ -12,11 +12,15 @@ On Logo Up
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/magic-logo/activity>`_
-* `challenges </lessons/magic-logo/challenges>`_
-* `quiz </lessons/magic-logo/challenges>`_
-* `quiz answers </lessons/magic-logo/challenges>`_
+   ./magic-logo/activity
+   ./magic-logo/challenges
+   ./magic-logo/challenges
+   ./magic-logo/challenges
+
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

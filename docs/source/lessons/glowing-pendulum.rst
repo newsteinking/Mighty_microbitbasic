@@ -12,12 +12,15 @@ Acceleration
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/glowing-pendulum/activity>`_
-* `tutorial </lessons/glowing-pendulum/tutorial>`_
-* `challenges </lessons/glowing-pendulum/challenges>`_
-* `quiz </lessons/glowing-pendulum/quiz>`_
-* `quiz answers </lessons/glowing-pendulum/quiz-answers>`_
+   ./glowing-pendulum/activity
+   ./glowing-pendulum/tutorial
+   ./glowing-pendulum/challenges
+   ./glowing-pendulum/quiz
+   ./glowing-pendulum/quiz-answers
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

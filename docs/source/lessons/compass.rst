@@ -12,11 +12,14 @@ If (Conditionals)
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/compass/activity>`_
-* `challenges </lessons/compass/challenges>`_
-* `quiz </lessons/compass/quiz>`_
-* `quiz answers </lessons/compass/quiz-answers>`_
+   ./compass/activity
+   ./compass/challenges
+   ./compass/quiz
+   ./compass/quiz-answers
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

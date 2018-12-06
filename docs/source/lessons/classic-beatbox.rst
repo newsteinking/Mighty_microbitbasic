@@ -12,9 +12,12 @@ Music
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/classic-beatbox/activity>`_
-* `challenges </lessons/classic-beatbox/challenges>`_
+   ./classic-beatbox/activity
+   ./classic-beatbox/challenges
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

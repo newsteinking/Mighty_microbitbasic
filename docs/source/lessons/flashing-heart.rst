@@ -12,11 +12,15 @@ Pause
 Quick links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/flashing-heart/activity>`_
-* `quiz </lessons/flashing-heart/quiz>`_
-* `quiz answers </lessons/flashing-heart/quiz-answers>`_
-* `challenges </lessons/flashing-heart/challenges>`_
+   ./flashing-heart/activity
+   ./flashing-heart/quiz
+   ./flashing-heart/quiz-answers
+   ./flashing-heart/challenges
+
+
   ## Prior learning/place of lesson in scheme of work
 
 Learn how to ``show LEDs`` by showing an image on the LED screen. We will be learning how to create a blinking app using a forever loop as well as simple commands, such as show LEDs, pause, and clear screen.

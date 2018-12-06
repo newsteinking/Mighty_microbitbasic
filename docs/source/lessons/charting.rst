@@ -12,11 +12,15 @@ Acceleration
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/charting/activity>`_
-* `challenge </lessons/charting/challenge>`_
-* `quiz </lessons/charting/quiz>`_
-* `answers </lessons/charting/quiz-answers>`_
+   ./charting/activity
+   ./charting/challenge
+   ./charting/quiz
+   ./charting/quiz-answers
+
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

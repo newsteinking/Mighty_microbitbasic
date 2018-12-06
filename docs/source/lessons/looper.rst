@@ -12,11 +12,16 @@ For Loop
 Quick links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/looper/activity>`_
-* `challenges </lessons/looper/challenges>`_
-* `quiz </lessons/looper/quiz>`_
-* `quiz answers </lessons/looper/quiz-answers>`_
+   ./looper/activity
+   ./looper/challenges
+   ./looper/quiz
+   ./looper/quiz-answers
+
+
+
 
 Class
 -----

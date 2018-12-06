@@ -12,12 +12,16 @@ Math - Pick Random
 Quick links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/guess-the-number/activity>`_
-* `tutorial </lessons/guess-the-number/tutorial>`_
-* `challenges </lessons/guess-the-number/challenges>`_
-* `quiz </lessons/guess-the-number/quiz>`_
-* `quiz answers </lessons/guess-the-number/quiz-answers>`_
+   ./guess-the-number/activity
+   ./guess-the-number/tutorial
+   ./guess-the-number/challenges
+   ./guess-the-number/quiz
+   ./guess-the-number/quiz-answers
+
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

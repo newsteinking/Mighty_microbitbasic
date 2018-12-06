@@ -12,9 +12,12 @@ Game Library
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/game-of-chance/activity>`_
-* `challenges </lessons/game-of-chance/challenges>`_
+   ./game-of-chance/activity
+   ./game-of-chance/challenges
+
 
 Prior learning / place of lesson in scheme of work
 --------------------------------------------------

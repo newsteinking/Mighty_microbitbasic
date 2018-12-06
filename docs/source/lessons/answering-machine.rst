@@ -12,11 +12,14 @@ Show String
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </en/latest/lessons/answering-machine/activity>`_
-* `quiz </en/latest/lessons/answering-machine/quiz>`_
-* `quiz answers </en/latest/lessons/answering-machine/quiz-answers>`_
-* `challenges </en/latest/lessons/answering-machine/challenges>`_
+   ./answering-machine/activity
+   ./answering-machine/quiz
+   ./answering-machine/quiz-answers
+   ./answering-machine/challenges
+
 
 Prior learning / place of lesson in scheme of work
 --------------------------------------------------

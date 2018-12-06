@@ -11,12 +11,15 @@ For Loop
 
 Quick links
 -----------
+.. toctree::
+   :maxdepth: 4
+
+   ./strobe-light/activity
+   ./strobe-light/challenges
+   ./strobe-light/quiz
+   ./strobe-light/quiz-answers
 
 
-* `activity </lessons/strobe-light/activity>`_
-* `challenges </lessons/strobe-light/challenges>`_
-* `quiz </lessons/strobe-light/quiz>`_
-* `quiz answers </lessons/strobe-light/quiz-answers>`_
 
 Documentation
 -------------

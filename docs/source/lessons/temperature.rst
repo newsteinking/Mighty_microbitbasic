@@ -11,10 +11,13 @@ Temperature
 
 Quick Links
 -----------
+.. toctree::
+   :maxdepth: 4
+
+   ./temperature/activity
+   ./temperature/challenges
 
 
-* `activity </lessons/temperature/activity>`_
-* `challenges </lessons/temperature/challenges>`_
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

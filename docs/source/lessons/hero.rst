@@ -4,5 +4,9 @@ hero
 
 Make a game to test hand-eye coordination
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/hero/activity>`_
+   ./hero/activity
+
+

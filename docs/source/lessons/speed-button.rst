@@ -12,10 +12,14 @@ Running Time
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/speed-button/activity>`_
-* `quiz </lessons/speed-button/quiz>`_
-* `quiz answers </lessons/speed-button/quiz-answers>`_
+   ./speed-button/activity
+   ./speed-button/quiz
+   ./speed-button/quiz-answers
+
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

@@ -11,12 +11,15 @@ Clear Screen
 
 Quick Links
 -----------
+.. toctree::
+   :maxdepth: 4
+
+   ./screen-wipe/activity
+   ./screen-wipe/quiz
+   ./screen-wipe/quiz-answers
+   ./screen-wipe/challenges
 
 
-* `activity </lessons/screen-wipe/activity>`_
-* `quiz </lessons/screen-wipe/quiz>`_
-* `quiz answers </lessons/screen-wipe/quiz-answers>`_
-* `challenges </lessons/screen-wipe/challenges>`_
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

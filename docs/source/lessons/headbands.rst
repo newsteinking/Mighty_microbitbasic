@@ -12,10 +12,14 @@ Collection
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/headbands/activity>`_
-* `quiz </lessons/headbands/quiz>`_
-* `quiz answers </lessons/headbands/quiz-answers>`_
+   ./headbands/activity
+   ./headbands/quiz
+   ./headbands/quiz-answers
+
+
 
 Class
 -----

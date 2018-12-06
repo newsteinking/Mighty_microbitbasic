@@ -12,11 +12,15 @@ Variables
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/catch-the-egg-game/activity>`_
-* `challenge </lessons/catch-the-egg-game/challenge>`_
-* `quiz </lessons/catch-the-egg-game/quiz>`_
-* `quiz answers </lessons/catch-the-egg-game/quiz-answers>`_
+   ./catch-the-egg-game/activity
+   ./catch-the-egg-game/challenge
+   ./catch-the-egg-game/quiz
+   ./catch-the-egg-game/quiz-answers
+
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

@@ -19,9 +19,6 @@ Quick Links
    ./beautiful-image/challenges
 
 
-* `activity </en/latest/lessons/beautiful-image/activity.html>`_
-* `challenges </en/latest/lessons/beautiful-image/challenges.html>`_
-
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------
 

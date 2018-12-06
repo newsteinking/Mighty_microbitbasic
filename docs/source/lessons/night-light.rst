@@ -12,11 +12,15 @@ Set Brightness
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
 
-* `activity </lessons/night-light/activity>`_
-* `challenges </lessons/night-light/challenges>`_
-* `quiz </lessons/night-light/quiz>`_
-* `quiz answers </lessons/night-light/quiz-answers>`_
+   ./night-light/activity
+   ./night-light/challenges
+   ./night-light/quiz
+   ./night-light/quiz-answers
+
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

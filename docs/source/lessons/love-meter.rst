@@ -11,12 +11,15 @@ On Pin Pressed
 
 Quick Links
 -----------
+.. toctree::
+   :maxdepth: 4
+
+   ./love-meter/activity
+   ./love-meter/quiz
+   ./love-meter/quiz-answers
+   ./love-meter/challenges
 
 
-* `activity </lessons/love-meter/activity>`_
-* `quiz </lessons/love-meter/quiz>`_
-* `quiz answers </lessons/love-meter/quiz-answers>`_
-* `challenges </lessons/love-meter/challenges>`_
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

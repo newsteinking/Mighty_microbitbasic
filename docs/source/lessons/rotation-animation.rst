@@ -11,12 +11,16 @@ While Loop
 
 Quick links
 -----------
+.. toctree::
+   :maxdepth: 4
+
+   ./rotation-animation/activity
+   ./rotation-animation/challenges
+   ./rotation-animation/quiz
+   ./rotation-animation/quiz-answers
 
 
-* `activity </lessons/rotation-animation/activity>`_
-* `challenges </lessons/rotation-animation/challenges>`_
-* `quiz </lessons/rotation-animation/quiz>`_
-* `quiz answers </lessons/rotation-animation/quiz-answers>`_
+
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------
