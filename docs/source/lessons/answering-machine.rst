@@ -13,10 +13,10 @@ Quick Links
 -----------
 
 
-* `activity </lessons/answering-machine/activity>`_
-* `quiz </lessons/answering-machine/quiz>`_
-* `quiz answers </lessons/answering-machine/quiz-answers>`_
-* `challenges </lessons/answering-machine/challenges>`_
+* `activity </en/latest/lessons/answering-machine/activity>`_
+* `quiz </en/latest/lessons/answering-machine/quiz>`_
+* `quiz answers </en/latest/lessons/answering-machine/quiz-answers>`_
+* `challenges </en/latest/lessons/answering-machine/challenges>`_
 
 Prior learning / place of lesson in scheme of work
 --------------------------------------------------

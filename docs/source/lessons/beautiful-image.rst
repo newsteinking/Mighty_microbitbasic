@@ -13,8 +13,8 @@ Quick Links
 -----------
 
 
-* `activity </lessons/beautiful-image/activity>`_
-* `challenges </lessons/beautiful-image/challenges>`_
+* `activity </en/latest/lessons/beautiful-image/activity>`_
+* `challenges </en/latest/lessons/beautiful-image/challenges>`_
 
 Prior learning/place of lesson in scheme of work
 ------------------------------------------------

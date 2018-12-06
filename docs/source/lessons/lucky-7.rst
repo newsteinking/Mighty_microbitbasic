@@ -1,5 +1,5 @@
 
-Lesson2 lucky 7 blocks lesson
+Lesson 2 lucky 7 blocks lesson
 =====================
 
 Show a number on the LED screen.
