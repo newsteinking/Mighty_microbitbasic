@@ -12,6 +12,12 @@ Show LEDs
 Quick Links
 -----------
 
+.. toctree::
+   :maxdepth: 4
+
+   ./beautiful-image/activity
+   ./beautiful-image/challenges
+
 
 * `activity </en/latest/lessons/beautiful-image/activity.html>`_
 * `challenges </en/latest/lessons/beautiful-image/challenges.html>`_
