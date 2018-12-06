@@ -24,6 +24,7 @@ Starter Scratch Basic
    chapter1
    chapter2
    chapter3
+   beautiful-image
 
 
 Indices and tables
