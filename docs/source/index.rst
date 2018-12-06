@@ -19,7 +19,7 @@ Mighty Microbit Basic
 
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 5
 
    ./lessons/beautiful-image
    ./lessons/lucky-7
